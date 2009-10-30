@@ -10,6 +10,8 @@ include "..\Kartel Arena\v0.9\vars\consts.prg";    // constantes
 
 global
 
+// COUCOUCOUCO
+
    // --- FONTES ---
       /*word*/ FNT_titre,
       FNT_menu,
