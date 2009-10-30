@@ -1,0 +1,27 @@
+// FICHIER CONFIG pour WAR GUNs
+// FICHIER CONFIG DE: Ikarus
+// AUTEUR: Zigo
+// VERSION 1.0
+
+
+!version=1,0!			
+
+!couleur=10,1900!		// couleur des murs de la hardness map 
+			
+!respawns=	1640,2041,
+		98,1392,
+		3184,1404,
+		1631,408!	// points de respawns (max:15)
+
+!objets=	3180,590,0!	// points d'apparition des objets (max:10)
+
+!armes=	        10104,584,1,
+		2158,584,1,
+		929,1088,2,
+		2325,1088,2,
+		508,1700,3,
+		2770,1700,3,
+		1640,1420,4,
+		102,590,5!	// points d'apparition des armes (max:10)
+
+// 30 param max par fonction 

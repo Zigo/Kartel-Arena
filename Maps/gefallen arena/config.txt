@@ -1,0 +1,32 @@
+// FICHIER CONFIG pour WAR GUNs
+// FICHIER CONFIG DE: Gefallen Arena
+// AUTEUR: lolo
+// VERSION 1.0
+
+
+!version=1,0!			
+
+!couleur=833,616!		// couleur des murs de la hardness map 
+
+!fonds=fond!		
+!fraport=200!		
+!frepeat=3!
+			
+!respawns=	715,177,
+		928,177,
+		550,1500,
+		1085,1500!	// points de respawns (max:15)
+
+!objets=	1127,721,1,
+		935,109,0,
+		730,830,2!	// points d'apparition des objets (max:10)
+
+!armes=	        1237,3021,1,
+		825,900,2,
+		708,1530,3,
+		940,1530,3,
+		100,2360,4,
+		1536,2360,4,
+		821,2763,5!	// points d'apparition des armes (max:10)
+
+// 30 param max par fonction 

@@ -1,0 +1,30 @@
+// FICHIER CONFIG pour WAR GUNs
+// FICHIER CONFIG DE: Test dist
+// AUTEUR: Zigo
+// VERSION 0.5
+
+
+!version=1,0!			// version de warguns 
+
+!couleur=100,800!		// couleur des murs de la hardness map 
+
+!fonds=fond1,fond2!		// background pour le scroll (images png sans l'extension) (8 BACKGROUNDS MAXIMUM et nb de backgrounds doit etre multiple de deux) doit etre appellé avant les valeurs f_
+!fraport=200,400!		// vitesse des backgrounds (les uns par rapprot aux autres) (en %) 
+!frepeat=1,3!			// repetition des backgrounds 
+!fflags=0,0!			// flags des backgrounds 
+
+!respawns=	134,495,
+		235,740,
+		1341,311,
+		1341,632!	// points de respawns (max:15)
+
+!objets=	1779,600,1,
+		448,789,1!	// points d'apparition des objets (max:10)
+
+!armes=	        1360,332,1,
+		2085,261,2,
+		1306,800,3,
+		960,103,4,
+		2166,604,5!	// points d'apparition des armes (max:10)
+
+// 30 param max par fonction 

@@ -1,0 +1,26 @@
+// FICHIER CONFIG pour WAR GUNs
+// FICHIER CONFIG DE: Ghost Walls
+// AUTEUR: lolo
+// VERSION 1.0
+
+
+!version=1,0!			
+
+!couleur=5,5!			// couleur des murs de la hardness map 
+
+!fonds=ciel!		
+!frepeat=1!
+
+!respawns=	1085,810,
+		2611,814,
+		3556,742,
+		3962,602!	// points de respawns (max:15)
+
+!armes=	        2973,713,1,
+		1845,713,2,
+		2050,713,2,
+		2870,925,3,
+		4000,515,4,
+		4100,515,5!	// points d'apparition des armes (max:10)
+
+// 30 param max par fonction 
